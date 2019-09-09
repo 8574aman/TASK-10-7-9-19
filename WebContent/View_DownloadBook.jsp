@@ -8,6 +8,6 @@
 </head>
 <body>
 
-<a href="DownloadBooks.java"> VIEW BOOKS TO DOWNLOAD</a>
+<a href="DownloadBooks.java"> VIEW/DOWNLOAD BOOKS</a>
 </body>
 </html>

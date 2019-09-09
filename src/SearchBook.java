@@ -22,7 +22,7 @@ import com.mysql.jdbc.Statement;
 public class SearchBook extends HttpServlet {
 protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 	
-		String s1= request.getParameter("bookgenre");
+		String s1= request.getParameter("searchBook");
 		
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
